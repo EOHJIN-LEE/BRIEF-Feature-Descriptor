@@ -15,7 +15,7 @@ Original Image
 
 After Image 
 -----------
-<img width="400" src="https://user-images.githubusercontent.com/44941601/71888981-90065680-3184-11ea-80a2-aba5394ba7f9.jpg">
+<img width="700" src="https://user-images.githubusercontent.com/44941601/71888981-90065680-3184-11ea-80a2-aba5394ba7f9.jpg">
 
 <hr/>
 
