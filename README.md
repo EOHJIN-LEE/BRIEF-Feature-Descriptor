@@ -21,4 +21,3 @@ After Image
 
 
 VS2017  
-Programs written with C
