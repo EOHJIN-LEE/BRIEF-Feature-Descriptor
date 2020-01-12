@@ -20,4 +20,4 @@ After Image
 <hr/>
 
 
-VS2017  
+VS2017, OpenCV  
